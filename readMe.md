@@ -58,7 +58,12 @@ LLMs can reason about wide-ranging topics, but their knowledge is limited to the
 
 4)04-chain
 
+![alt text](retriever.png)
+when user ask for any enquiry it goes to retreiver (which is an interface tovector store) it goes to llm model (stuff_document_chain) with some prmompt and finally we will get the repsonse
+
 Learnings:
 Chain and retreiver integration with LLM
+
+https://python.langchain.com/v0.1/docs/modules/chains/
 
 https://api.python.langchain.com/en/latest/chains/langchain.chains.combine_documents.stuff.create_stuff_documents_chain.html#langchain.chains.combine_documents.stuff.create_stuff_documents_chain
