@@ -67,3 +67,13 @@ Chain and retreiver integration with LLM
 https://python.langchain.com/v0.1/docs/modules/chains/
 
 https://api.python.langchain.com/en/latest/chains/langchain.chains.combine_documents.stuff.create_stuff_documents_chain.html#langchain.chains.combine_documents.stuff.create_stuff_documents_chain
+
+5. Agent RAG
+
+Tools -- https://python.langchain.com/docs/concepts/#tools
+Agents -- https://python.langchain.com/docs/concepts/#agents
+
+6. 06-groq
+
+Used groq, langchain-qroq
+(Groq is its lightning-fast speed at which it replies to user queries.)
